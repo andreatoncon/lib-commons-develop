@@ -4,7 +4,7 @@ on:
     branches:
       - develop # or the name of your main branch
 env:
-  NM: ffm-ne-back-jv-lib-commons
+  NM: lib-commons-develop
 jobs:
   unit-test:
     runs-on: ubuntu-latest
